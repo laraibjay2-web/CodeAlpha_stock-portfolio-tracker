@@ -1,0 +1,19 @@
+STOCK PORFOLIO REPORT
+======================
+
+Stock: AAPL
+Price: $180
+Quantity: 2
+Investment: $360
+
+Stock: TSLA
+Price: $250
+Quantity: 1
+Investment: $250
+
+Stock: GOOGL
+Price: $150
+Quantity: 4
+Investment: $600
+
+ Total Investment: $1210
